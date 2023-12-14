@@ -14,3 +14,4 @@ LLM 파인튜닝에 PPO를 활용한 강화학습 적용
 2) 벤치마크 데이터를 통해 STEP1에서 STEP3까지 실제 어느 정도 성능의 향상이 있는지 비교한다.
 
 
+![image](https://github.com/mindcompass/ReinforcementLearningFinalTask/assets/56505024/cb722a25-d633-4ded-9b42-dde8768226cc)
