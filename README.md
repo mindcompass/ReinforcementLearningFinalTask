@@ -4,7 +4,7 @@
 최종 STEP3에서 생성된 모델은 다음 링크를 통해 다운로드 받을 수 있습니다.
 https://drive.google.com/file/d/1OrOgQFCFRAiryEmMCH_Bujjja1kawiJU/view?usp=sharing
 
-모델을 다운로드해서 Inference할 수 있지만, 여러 라이브러리도 함께 설치해야 하기 때문에 Colab으로 한번에 돌리는 것이 편리합니다.
+2. 모델을 다운로드해서 Inference할 수 있지만, 여러 라이브러리도 함께 설치해야 하기 때문에 Colab으로 한번에 돌리는 것이 편리합니다.
 
 3. 주제 :
 LLM 파인튜닝에 PPO를 활용한 강화학습 적용
